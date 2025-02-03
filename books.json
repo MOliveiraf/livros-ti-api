@@ -1,92 +1,92 @@
 [
-    {
-      "titulo": "Clean Code: A Handbook of Agile Software Craftsmanship",
-      "autor": "Robert C. Martin",
-      "area": "Programação",
-      "imagem": "URL da imagem do Google",
-      "editora": "Prentice Hall",
-      "ano_de_publicacao": "2008",
+  {
+      "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "author": "Robert C. Martin",
+      "field": "Programming",
+      "image": "Google image URL",
+      "publisher": "Prentice Hall",
+      "publication_year": "2008",
       "isbn": "978-0132350884"
-    },
-    {
-      "titulo": "The Pragmatic Programmer",
-      "autor": "Andrew Hunt, David Thomas",
-      "area": "Engenharia de Software",
-      "imagem": "URL da imagem do Google",
-      "editora": "Addison-Wesley Professional",
-      "ano_de_publicacao": "1999",
+  },
+  {
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt, David Thomas",
+      "field": "Software Engineering",
+      "image": "Google image URL",
+      "publisher": "Addison-Wesley Professional",
+      "publication_year": "1999",
       "isbn": "978-0201616224"
-    },
-    {
-      "titulo": "Design Patterns: Elements of Reusable Object-Oriented Software",
-      "autor": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
-      "area": "Arquitetura de Software",
-      "imagem": "URL da imagem do Google",
-      "editora": "Addison-Wesley Professional",
-      "ano_de_publicacao": "1994",
+  },
+  {
+      "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+      "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+      "field": "Software Architecture",
+      "image": "Google image URL",
+      "publisher": "Addison-Wesley Professional",
+      "publication_year": "1994",
       "isbn": "978-0201633610"
-    },
-    {
-      "titulo": "Introduction to the Theory of Computation",
-      "autor": "Michael Sipser",
-      "area": "Teoria da Computação",
-      "imagem": "URL da imagem do Google",
-      "editora": "Cengage Learning",
-      "ano_de_publicacao": "2012",
+  },
+  {
+      "title": "Introduction to the Theory of Computation",
+      "author": "Michael Sipser",
+      "field": "Theory of Computation",
+      "image": "Google image URL",
+      "publisher": "Cengage Learning",
+      "publication_year": "2012",
       "isbn": "978-1133187790"
-    },
-    {
-      "titulo": "Effective Java",
-      "autor": "Joshua Bloch",
-      "area": "Programação Java",
-      "imagem": "URL da imagem do Google",
-      "editora": "Addison-Wesley Professional",
-      "ano_de_publicacao": "2008",
+  },
+  {
+      "title": "Effective Java",
+      "author": "Joshua Bloch",
+      "field": "Java Programming",
+      "image": "Google image URL",
+      "publisher": "Addison-Wesley Professional",
+      "publication_year": "2008",
       "isbn": "978-0134685991"
-    },
-    {
-      "titulo": "Python Crash Course: A Hands-On, Project-Based Introduction to Programming",
-      "autor": "Eric Matthes",
-      "area": "Programação Python",
-      "imagem": "URL da imagem do Google",
-      "editora": "No Starch Press",
-      "ano_de_publicacao": "2015",
+  },
+  {
+      "title": "Python Crash Course: A Hands-On, Project-Based Introduction to Programming",
+      "author": "Eric Matthes",
+      "field": "Python Programming",
+      "image": "Google image URL",
+      "publisher": "No Starch Press",
+      "publication_year": "2015",
       "isbn": "978-1593276034"
-    },
-    {
-      "titulo": "Web Security for Developers",
-      "autor": "Malcolm McDonald",
-      "area": "Segurança Web",
-      "imagem": "URL da imagem do Google",
-      "editora": "No Starch Press",
-      "ano_de_publicacao": "2020",
+  },
+  {
+      "title": "Web Security for Developers",
+      "author": "Malcolm McDonald",
+      "field": "Web Security",
+      "image": "Google image URL",
+      "publisher": "No Starch Press",
+      "publication_year": "2020",
       "isbn": "978-1593279943"
-    },
-    {
-      "titulo": "Hacking: The Art of Exploitation",
-      "autor": "Jon Erickson",
-      "area": "Cibersegurança",
-      "imagem": "URL da imagem do Google",
-      "editora": "No Starch Press",
-      "ano_de_publicacao": "2008",
+  },
+  {
+      "title": "Hacking: The Art of Exploitation",
+      "author": "Jon Erickson",
+      "field": "Cybersecurity",
+      "image": "Google image URL",
+      "publisher": "No Starch Press",
+      "publication_year": "2008",
       "isbn": "978-1593271442"
-    },
-    {
-      "titulo": "Penetration Testing: A Hands-On Introduction to Hacking",
-      "autor": "Georgia Weidman",
-      "area": "Penetration Testing",
-      "imagem": "URL da imagem do Google",
-      "editora": "No Starch Press",
-      "ano_de_publicacao": "2014",
+  },
+  {
+      "title": "Penetration Testing: A Hands-On Introduction to Hacking",
+      "author": "Georgia Weidman",
+      "field": "Penetration Testing",
+      "image": "Google image URL",
+      "publisher": "No Starch Press",
+      "publication_year": "2014",
       "isbn": "978-1593275648"
-    },
-    {
-      "titulo": "The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws",
-      "autor": "Dafydd Stuttard, Marcus Pinto",
-      "area": "Cibersegurança",
-      "imagem": "URL da imagem do Google",
-      "editora": "Wiley",
-      "ano_de_publicacao": "2011",
+  },
+  {
+      "title": "The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws",
+      "author": "Dafydd Stuttard, Marcus Pinto",
+      "field": "Cybersecurity",
+      "image": "Google image URL",
+      "publisher": "Wiley",
+      "publication_year": "2011",
       "isbn": "978-1118026472"
-    }
-  ]
+  }
+]
